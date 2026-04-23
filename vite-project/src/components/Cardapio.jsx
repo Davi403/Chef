@@ -26,7 +26,7 @@ if (carregando) {
 
   return (
     <div className={styles.container}>
-      <h1>Cardápio de </h1>
+      <h1>Cardápio de Frango</h1>
       
       <div className={styles.grid}>
         {pratos.map(item => (
